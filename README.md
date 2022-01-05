@@ -1,17 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+### 1/5/2022
 
-### Project Title
+
+### Post Your Work on GitHub
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project, using documents from Project 2, we will be putting our learned skills of version control to use.
 
 ### Files used
-Include the files used
+* Git Commands Documentation.pdf
+* https://wordpress.com/support/markdown-quick-reference/
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* The mentor section on udacity was a very helpful resource
+* The Git Commands Documentation.pdf was very helpful to track progress
