@@ -16,3 +16,4 @@ This project, using documents from Project 2, will put our learned skills of ver
 ### Credits
 * The mentor section on udacity was a very helpful resource
 * The Git Commands Documentation.pdf was very helpful to track progress
+* Udacity Course lessons and tutorials
