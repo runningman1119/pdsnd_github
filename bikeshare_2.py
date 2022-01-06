@@ -32,7 +32,7 @@ def get_filters():
     while True:
         month = input(" \n Which month would you like to analyze? January, February, March, April, May, June? You may also type 'all' to view all months. \n")
         if month not in ('January','February','March', 'April', 'May', 'June', 'all'):
-            print("This was not a valid input, please try again.")
+            print("This was not a valid input, please try again and check Spelling/Cap.")
             continue
         else:
             break
